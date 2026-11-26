@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @hannaholyj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning nothing!
-- 💞️ I’m looking to collaborate on life saving ointments
-- 📫 How to reach me ...
+# Hi, I'm Hannah 👋
+- 🔭 BSc (Hons) Physics with Astronomy and Space Science, University College Dublin
+- 🎓 Currently doing a master's in Space Science and Technology
 
-<!---
-hannaholyj/hannaholyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/hannah-o-leary-jeffers-/)
